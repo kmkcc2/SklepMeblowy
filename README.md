@@ -1,7 +1,4 @@
-# Projekt zaliczeniowy z przedmiotu: _**Aplikacje internetowe**_
-
 # Temat projektu: Sklep meblowy 
-## Skład grupy: Kacper Krowicki, Jakub Ciomcia, Krystian Kubik
 ## Specyfikacja projektu
 ### Cel projektu : Stworzenie prostej strony internetowej służącej do zamawiania mebli biurowych
 #### Cele szczegółowe:
